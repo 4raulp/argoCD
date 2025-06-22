@@ -7,7 +7,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://github/4raulp/argocd-app-config.git
+    repoURL: https://github.com/4raulp/argocd-app-config.git
     targetRevision: HEAD
     path: dev
   destination: 
